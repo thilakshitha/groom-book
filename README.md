@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Men's Salon Booking Platform
 
@@ -82,3 +83,6 @@ The app requires the following Firebase services:
 ## License
 
 This project is open source and available under the MIT License.
+=======
+# groom-book
+>>>>>>> 7377a0e8cf3d07ca4d4455396f0cab3e3e37ced0
